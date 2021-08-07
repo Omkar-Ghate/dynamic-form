@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+.addBtn {
+  background-color: blueviolet;
+  color: whitesmoke;
+  height: 2rem;
+  width: 5rem;
+  margin-right: 3rem;
+  float: right;
+}
+label {
+  margin-right: 0.2rem;
+}
